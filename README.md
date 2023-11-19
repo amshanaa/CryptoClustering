@@ -3,7 +3,10 @@ Module 19-Challenge
 
 
 In this particular challenge I utlized the Elbow Curve and K-Means in order to plot and visualize the data.
-  The Elbow Curve gave visual aid in order to properly assess the correct K-Mean value to utilize for the dataset.
+
+
+
+The Elbow Curve gave visual aid in order to properly assess the correct K-Mean value to utilize for the dataset.
   
   ![Elbow1](https://github.com/amshanaa/CryptoClustering/assets/136298119/cb91710f-8477-4a83-9811-ea02a728de58)
 
